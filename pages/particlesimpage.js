@@ -6,7 +6,7 @@
 var ParticleSimPage = function (canvas, hdim, vdim) {
     this.canvas = canvas;
     this.camera = new Camera(canvas);
-    this.grid = new GameGrid(768, 1024, 768, 1024);
+    //this.grid = new GameGrid(768, 1024, 768, 1024);
     //this.waterfall = new ParticleWorld(canvas, this.grid);
     this.explosion = new ParticleSystem(768 * 0.5, 1024 * 0.5) 
     this.hdim = hdim || 3;

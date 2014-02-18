@@ -1,8 +1,8 @@
-jsWaterfall
+jsParticleSim
 =======
 
-Flow Game Prototype
+Particle Simulation
 
 Try it out here:
 
-http://jefflutzenberger.github.io/jsFlowGame/
+http://jefflutzenberger.github.io/jsParticleSim/
